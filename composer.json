@@ -1,0 +1,8 @@
+{
+    "name": "sujitagarwal/blade-igniter",
+    "description": "Laravel Blade templating engine for the CI 3.0 Framework ",
+    "require": {
+        "php": ">=5.6.*",
+		"xiaoler/blade": "^0.2.2"
+    }
+}
